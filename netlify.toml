@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://nas6.hiing.cn:3002/:splat"
+  status = 200
+  force = true
